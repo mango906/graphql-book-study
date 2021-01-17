@@ -8,3 +8,4 @@
 
 👩‍💻 이유진 [@2ujin](https://github.com/2ujin)
 
+* [1장. GraphQL에 오신 것을 환영합니다](https://github.com/mango906/graphql-book-study/blob/master/2ujin/1.md)
