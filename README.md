@@ -9,9 +9,11 @@
 - [1장. GraphQL에 오신 것을 환영합니다](https://github.com/mango906/graphql-book-study/blob/master/mango906/Chapter1.md)
 - [2장. 그래프 이론](https://github.com/mango906/graphql-book-study/blob/master/mango906/Chapter2.md)
 - [3장. GraphQL 쿼리어](https://github.com/mango906/graphql-book-study/blob/master/mango906/Chapter3.md)
+- [4장. 스키마 설계하기](https://github.com/mango906/graphql-book-study/blob/master/mango906/Chapter4.md)
 
 👩‍💻 이유진 [@2ujin](https://github.com/2ujin)
 
 - [1장. GraphQL에 오신 것을 환영합니다](https://github.com/mango906/graphql-book-study/blob/master/2ujin/1.md)
 - [2장. 그래프 이론](https://github.com/mango906/graphql-book-study/blob/master/2ujin/2.md)
 - [3장. GraphQL 쿼리어](https://github.com/mango906/graphql-book-study/blob/master/2ujin/3.md)
+- [4장. 스키마 설계하기](https://github.com/mango906/graphql-book-study/blob/master/2ujin/4.md)
